@@ -1,0 +1,6 @@
+tmp/
+*_old
+*_backup
+js/Thumbs.db
+.DS_Store
+
